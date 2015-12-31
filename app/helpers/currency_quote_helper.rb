@@ -1,0 +1,2 @@
+module CurrencyQuoteHelper
+end
